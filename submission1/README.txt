@@ -2,7 +2,7 @@ Overleaf link with edit access to course instructor gmail and then email "anybod
 https://www.overleaf.com/project/64985ea5356dbb34f0f807d9
 
 Link to unlisted YouTube video:
-https://youtube.com/
+https://youtu.be/enJE_JkWcGw
 
 Public link to the slide (Anyone on the internet can view without login):
 https://docs.google.com/presentation/d/1FZm2pcRFp6Buu4cuGCWkTR2PSOoBOZozxQ1dY1CzTHw/
@@ -11,7 +11,7 @@ Project title:
 Not decided yet
 
 Group Number:
-14
+32
 
 Group Members:
 23166006, Tanjina Akter Nipu
