@@ -1,0 +1,17 @@
+Link to unlisted YouTube video:
+https://www.youtube.com/watch?v=
+
+Public link to the slide (Anyone on the internet can view without login):
+https://docs.google.com/presentation/d/
+
+Paper title:
+Layer-wised Model Aggregation for Personalized Federated Learning
+
+Link to the paper:
+https://openaccess.thecvf.com/content/CVPR2022/papers/Ma_Layer-Wised_Model_Aggregation_for_Personalized_Federated_Learning_CVPR_2022_paper.pdf
+
+Group Number:
+32
+
+Individual Submitter:
+23166018 Seikh Araf Noshin
