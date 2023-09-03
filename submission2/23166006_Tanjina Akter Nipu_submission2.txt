@@ -5,10 +5,10 @@ Public link to the slide (Anyone on the internet can view without login):
 https://docs.google.com/presentation/d/
 
 Paper title:
-
+Federated Learning for Smart Healthcare: A Survey
 
 Link to the paper:
-
+https://arxiv.org/pdf/2111.08834.pdf
 
 Group Number:
 32
