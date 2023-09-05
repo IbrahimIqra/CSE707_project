@@ -1,31 +1,11 @@
 Overleaf link with edit access to course instructor gmail and then email "anybody can edit" link to ST, RA.
 https://www.overleaf.com/project/64985ea5356dbb34f0f807d9
 
-Will update the rest soon
-
 Unlisted YouTube video:
-http://youtube....
+https://www.youtube.com/watch?v=5WVwSdhosRI
 
-Conference submitted paper / paper submission / login Link:
-https://easy....
-
-Paper title:
-
-
-Paper presentation (anyone can view without login):
-http://slides.google.com/
-
-Paper submission date (to workshop/conference):
-04 September 2023
-
-Paper submission ID: (received) from conference/workshop
-1341234
-
-Conference Name:
-2005 International Conference on Quantum Pattern Recognition for Natural Language Processing: Techniques and Practices
-
-Conference URL:
-http://confsite/...
+EDA Google Colab:
+https://colab.research.google.com/drive/1uXcsfdmo11mT2OXqW4W7AiPp4UXlnmwS?usp=sharing
 
 Group Number:
 32

@@ -1,4 +1,11 @@
-Will update the rest soon
+Overleaf link with edit access to course instructor gmail and then email "anybody can edit" link to ST, RA.
+https://www.overleaf.com/project/64985ea5356dbb34f0f807d9
+
+Unlisted YouTube video:
+https://www.youtube.com/watch?v=dc0QzWAtJRs
+
+Model Colab File:
+https://colab.research.google.com/drive/1l6fj4P-mI7_FuDs6qzmowFazlmo5xJpi?usp=sharing
 
 Group Number:
 32

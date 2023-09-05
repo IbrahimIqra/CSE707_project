@@ -8,7 +8,7 @@ Public link to the slide (Anyone on the internet can view without login):
 https://docs.google.com/presentation/d/1FZm2pcRFp6Buu4cuGCWkTR2PSOoBOZozxQ1dY1CzTHw/
 
 Project title:
-Not decided yet
+Orchestrating and Interpreting Distributed Ensemble Learning for Enhanced Accuracy in Clickbait News Headline Detection
 
 Group Number:
 32
