@@ -4,8 +4,6 @@ https://www.youtube.com/watch?v=VLnytrfOsro
 Two public links to the Concept Map (anyone on the internet can view without login):
 PDF: 
 https://github.com/you/CSE123/blob/main/submission3/Concept%20Map.pdf
-Native/original format: 
-https://draw.io/...
 
 Name, Author, Edition, year, and publisher of the Book:
 Principles of Distributed Database Systems
