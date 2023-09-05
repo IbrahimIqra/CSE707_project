@@ -5,10 +5,10 @@ Public link to the slide (Anyone on the internet can view without login):
 https://docs.google.com/presentation/d/
 
 Paper title:
-Accelerated Federated Learning with Decoupled Adaptive Optimization
+Exploiting Shared Representations for Personalized Federated Learning
 
 Link to the paper:
-https://proceedings.mlr.press/v162/jin22e/jin22e.pdf
+https://arxiv.org/abs/2102.07078
 
 Group Number:
 32
