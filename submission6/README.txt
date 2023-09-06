@@ -1,20 +1,28 @@
-Overleaf link with edit access to course instructor gmail and then email "anybody can edit" link to ST, RA.
+Paper 1 Overleaf link with edit access to course instructor gmail and then email "anybody can edit" link to ST, RA.
 https://www.overleaf.com/project/64985ea5356dbb34f0f807d9
+Paper 2 Overleaf link with edit access to course instructor gmail and then email "anybody can edit" link to ST, RA.
+https://www.overleaf.com/project/64f73cb38154e1e347628441
 
 Unlisted YouTube video:
 https://www.youtube.com/watch?v=7UXVUuK_5fc
 
-Paper title:
+Paper 1 title:
 Orchestrating and Interpreting Distributed Ensemble Learning for Enhanced Accuracy in Clickbait News Headline Detection
+Paper 2 title:
+An In-Depth Exploration of Federated Learning’s Revolutionary Influence on Medical Imaging
 
 Paper presentation (anyone can view without login):
 https://docs.google.com/presentation/d/1CcMIywyuda_xjEobeQnFq2czY91rmedut6IgolRqrW0/
 
-Paper submission date (to workshop/conference):
+Paper 1 submission date (to workshop/conference):
 6 September 2023
+Paper 2 submission date (to workshop/conference):
+7 September 2023
 
-Paper submission ID: (received) from conference/workshop
+Paper 1 submission ID: (received) from conference/workshop
 CSDE-1288
+Paper 2 submission ID: (received) from conference/workshop
+CSDE-1295
 
 Conference Name:
 IEEE CSDE 2023
