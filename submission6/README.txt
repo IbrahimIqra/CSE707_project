@@ -1,7 +1,7 @@
 Paper 1 Overleaf link with edit access to course instructor gmail and then email "anybody can edit" link to ST, RA.
-https://www.overleaf.com/project/64985ea5356dbb34f0f807d9
+https://www.overleaf.com/9614376843xbgsdqhmpbnt
 Paper 2 Overleaf link with edit access to course instructor gmail and then email "anybody can edit" link to ST, RA.
-https://www.overleaf.com/project/64f73cb38154e1e347628441
+https://www.overleaf.com/3672132139ckkgtvjnthnx
 
 Unlisted YouTube video:
 https://www.youtube.com/watch?v=7UXVUuK_5fc
